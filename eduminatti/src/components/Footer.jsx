@@ -40,7 +40,7 @@ const Footer = () => {
             <div className="space-y-2 text-blue-200">
               <div className="flex items-center">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>+91 98765 43210</span>
+                <span>+91 9557695360</span>
               </div>
               <div className="flex items-center">
                 <Mail className="w-4 h-4 mr-2" />
@@ -67,7 +67,7 @@ const Footer = () => {
         
         {/* Copyright */}
         <div className="border-t border-blue-800 mt-8 pt-8 text-center text-blue-200">
-          <p>&copy; 2024 EDU. All rights reserved.</p>
+          <p>&copy; 2025 EDU. All rights reserved.</p>
         </div>
       </div>
     </footer>
