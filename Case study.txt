@@ -1,0 +1,17 @@
+Why is it the load time to long ? 
+Possible reasons : 
+1. Heavy Images or Assets : If some times we use direct heavy hd images for all the content the website takes time to load
+2. Too Much JavaScript : If the Script is not efficient and using many function that may not be required or can be optimized
+3. Showing all the content as once : As in the website all 68 schools are loading at the same time and getting displayed
+4. *Sometimes Server or hosting is slow or overloaded : Maybe the platform used for hosting is not optimal or overly crowded
+5. Various component divided not optimaly : As for main content the websit includes Hero section , Chatbot , and All the content of the schools,along with filters to make searching much better 
+
+Current Problem :
+1. Long load time of content (Mentioned in the assignment)
+2. Hero Section also taking long to load : Can be because of the hero section having Serching system along with designs to show school scenario (different element used to make the hero section)
+3. Virtual Assistant Pop up oppening multiple times 
+
+Solution : 
+1. Compress images using formats like WebP
+2. Use of lazy loading for images : i.e showing the necessary content only when required 
+3. Upgrading Hosting/server
