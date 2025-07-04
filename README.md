@@ -1,4 +1,4 @@
-# 🎓 Edumatti – School Finder Website
+# 🎓 Edumatti (Assignment) – School Finder Website
 
 A sleek and responsive **React.js** application to search, filter, and explore schools across multiple locations with ease.
 
@@ -22,7 +22,7 @@ A sleek and responsive **React.js** application to search, filter, and explore s
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/edumatti.git
+git clone https://github.com/Abhaynegi1/edumatti.git
 cd edumatti
 npm install
 npm run dev
